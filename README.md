@@ -13,3 +13,6 @@ Eu sou o Marcus, atualmente trabalho com suporte técnico na empresa [a link](ht
 - :office_worker: Suporte Técnico em Processor
 - :blue_heart: Techs: Node.js, Docker, Postgres, entre outros.
 - :books: Estudando TDD com Jest e Clean Architecture :heart:
+
+
+ 
