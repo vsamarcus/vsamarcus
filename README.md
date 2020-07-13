@@ -10,7 +10,7 @@
 Eu sou o Marcus, atualmente trabalho com suporte técnico na empresa [Processor](https://www.linkedin.com/company/processor/). Apaixonado por desenvolvimento web e automações de rotinas.
 
 - :office_worker: Suporte Técnico em Processor
-- :blue_heart: Techs: Node.js, Docker, Postgres, entre outros.
+- :blue_heart: Techs: Node.js, Docker, Postgres, Powershell, entre outros.
 - :books: Estudando TDD com Jest e Clean Architecture :heart:
 
 
