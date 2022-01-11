@@ -4,7 +4,7 @@
 
 ## E aê! 👋
 
-Eu sou o Marcus, atualmente trabalho com criação e implantação de infraestutura e serviços em nuvem na empresa [Processor](https://www.linkedin.com/company/processor/). Apaixonado por DevOps e automações.
+Eu sou o Marcus, atualmente trabalho com suporte e implantação de infraestutura e serviços em nuvem na empresa [Processor](https://www.linkedin.com/company/processor/). Apaixonado por DevOps e automações.
 
 - :office_worker: Administrador de Redes na Processor.
 - :blue_heart: Terraform, Docker, Terraform, DevOps, NodeJS, PowerShell...
