@@ -22,7 +22,7 @@ spec:
     type: LinkedIn
       - where: https://www.linkedin.com/in/marcus-vsa
     type: Twitter
-      - where: (https://twitter.com/marcus_vsa_)
+      - where: https://twitter.com/marcus_vsa_
     type: GitHub
       - where: https://github.com/vsamarcus
   favorites:
