@@ -12,7 +12,7 @@ metadata:
      - Docker: 💙
      - Kubernetes: 💙
      - PowerShell: 💙
-     - Shell Script: 🧡
+     - Bash: 🧡
      - NodeJS: 💚
      - Azure: 💙
      - AWS: 🧡
