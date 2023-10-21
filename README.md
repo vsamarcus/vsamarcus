@@ -1,7 +1,7 @@
 # Oh hi 👋
 
 ```yaml
-apiVersion: v22
+apiVersion: v23
 kind: Human
 metadata:
   name: Marcus Apolinario
@@ -15,7 +15,7 @@ metadata:
      app.bash: 🧡
      app.nodejs: 💚
      app.cloud.azure: 💙
-     app.cloud.aa: 🧡
+     app.cloud.aws: 🧡
 spec:
   purpose: I'm a person like you learning everyday and trying to automatize all things around me, because I'm lazy man and repetitive tasks are boring. =) 👨🏽‍💻
   locations:
